@@ -2,9 +2,9 @@
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning how to make system softwares.
 - 💞️ I’m looking to collaborate on any project someone have.
-- 📫 How to reach me either on socials i.e Instagram @officialkizobrownn, Contact: 0758487716
+- 📫 How to reach me either on socials i.e Instagram @kizobrownn, Contact: 0758487716
 - ⚡ Fun fact: I love music and am also in that Industry.
-- 
+- Making Amazing projects 
 
 <!---
 Kizobrown/Kizobrown is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
